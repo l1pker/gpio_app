@@ -45,7 +45,7 @@
 
 # Клонуйте репозиторій
 git clone https://github.com/l1pker/gpio_app.git
-cd gpio_led
+cd gpio_app
 
 # Побудуйте проект
 cargo build
@@ -60,7 +60,7 @@ cargo run
 
 # Клонуйте репозиторій
 git clone https://github.com/l1pker/gpio_app.git
-cd gpio_led
+cd gpio_app
 
 # Побудуйте проект
 cargo build
@@ -77,7 +77,7 @@ curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 
 # Клонуйте репозиторій
 git clone https://github.com/l1pker/gpio_app.git
-cd gpio_led
+cd gpio_app
 
 # Побудуйте проект
 cargo build
@@ -97,7 +97,7 @@ sudo apt install -y git
 
 # Клонуйте репозиторій
 git clone https://github.com/l1pker/gpio_app.git
-cd gpio_led
+cd gpio_app
 
 # Побудуйте проект
 cargo build
